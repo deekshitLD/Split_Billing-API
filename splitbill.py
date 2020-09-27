@@ -88,6 +88,5 @@ def update(id):
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0')
--- INSERT --                                                                                                                        91,1          Bot
+    app.run(host='0.0.0.0')                                                                                                                       91,1          Bot
 
